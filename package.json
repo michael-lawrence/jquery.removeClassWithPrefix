@@ -1,0 +1,29 @@
+{
+	"name": "jquery.removeClassWithPrefix",
+	"version": "1.0.0",
+	"description": "Simple jQuery plugin to remove css classes based on a prefix.",
+	"homepage": "https://github.com/michael-lawrence/jquery.removeClassWithPrefix",
+	"contributors": [
+		"Michael Lawrence <mike@pandemicode.com> (http://pandemicode.com/)"
+	],
+	"keywords": [
+		"jquery",
+		"svg",
+		"image",
+		"fallback"
+	],
+	"main": "./jquery.removeClassWithPrefix",
+	"dependencies": {
+		"jquery" : "*"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/michael-lawrence/jquery.removeClassWithPrefix.git"
+	},
+	"bugs": {
+		"url": "https://github.com/michael-lawrence/jquery.removeClassWithPrefix/issues"
+	},
+	"licenses" : [
+		{ "type" : "MIT" }
+	]
+}
