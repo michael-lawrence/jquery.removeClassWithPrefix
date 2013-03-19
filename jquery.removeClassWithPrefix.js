@@ -35,7 +35,7 @@
 
 			if ($el && $el.attr(ATTR)) {
 
-				var classes = _.map($el.attr(ATTR).split(DELIMITER), function (item) {
+				var classes = $.map($el.attr(ATTR).split(DELIMITER), function(item) {
 					return item.indexOf(prefix) === -1 ? item : '';
 				});
 
